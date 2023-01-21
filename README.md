@@ -13,3 +13,4 @@ This project is done with the help of Deep Learning models such as
 5.VGG-19
 6.Xception
 
+The results are avaliable in the "Results" pdf above
