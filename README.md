@@ -4,7 +4,7 @@ Dataset Link: https://drive.google.com/drive/folders/1VeGuTDGpVkeO_slSMxeDut1Mho
 
 The motive of this project is to evaluate whether the patient is daignosed with COVID 19 or not. 
 
-Structure of the project:
+**Structure of the project:**
 
 1.Data Gathering 
 
@@ -20,7 +20,7 @@ Structure of the project:
 
 5.Evaluation of model
 
-This project is done with the help of Deep Learning models such as 
+This project is done with the help of **Deep Learning models** such as :
 
 1.Resnet
 
@@ -39,4 +39,4 @@ This project is done with the help of Deep Learning models such as
 
 6.Xception
 
-The results are avaliable in the "Results" pdf above
+The results are avaliable in the **"Results"** pdf above
